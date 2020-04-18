@@ -1,0 +1,87 @@
+Their removal would make the operating system not fully usable, since important 
+features would be lost or some programs may behave differently or become unusable. 
+
+An automated version of the validation process might just flag a strange code for
+human approval, rather than rejecting the whole order outright.
+
+Most people effortlessly recognize those digits as 504192. That ease is deceptive.
+
+When you try to make such rules precise, you quickly get lost in a morass of exceptions 
+and caveats and special cases.
+
+The situation is better than this view suggests.
+
+In particular, it's not possible to sum up the disign process for the hidden layers 
+with a few simple rules of thumb.
+
+Despite the fact that these definitions are undeniably correct, none are precise 
+in a measurable way.
+
+The term abstraction, referes to the distinction between the external properties of an 
+entity and the details of the entity's internal composition.
+
+It is by applying abstraction, then, that we are able to contruct, analyze, and manage
+large, complex computer systems, which would be overwhelming if viewed in their entirely
+at a detailed level.
+
+Indeed 实际上
+    It is indeed a remarkable achievement.
+    I don't mind at all, indeed, I would be delighted to help
+moreover 此外
+    The price is too hight, and moreover, the house isn't in a suitable position.
+however 然而
+    I'd like to go with you; however my hands are full.
+    Victory, however it was brough about, was very sweet. //无论
+thus 因此，于是
+    Even in a highly skilled workforce some people will be more capable and thus better paid
+than others.
+
+in short 简单说
+in particular 特别，尤其
+At first glance 咋一看
+In contrast to 和xx相反
+Under these circumstances 在这种情况下
+otherwise 否则
+    We're committed to the project, we won't be here otherwise
+    He was slightly bruised but otherwise unhurt //除此之外
+whereas 然而（对比两个事实），鉴于
+    I hate, whereas you merely dislike, him
+    One's life is finite, whereas one's passion for life is infinite
+    Movements and shapes can be perceived whereas all other details are swallowed in blurry light.
+suppose ... 假设
+In addition to 除此之外
+
+The concept of public libraries is largely based on the premise that all citizens
+in a democracy must have access to information. As more information
+is stored and disseminated via computer technology, does access to this technology
+become a right of every individual?
+
+The preceding example probably sounds simple, but it conveys the basic manner in which 
+computers operate.
+
+Katas originated in martial arts training, but the idea has spread beyond the dojo
+
+The prevailing belief at the time was that an operation system had to be written in
+assembly language to provide reasonable efficiency and to get access to the hardware.
+
+By deliberately inducing faults, you ensure that the fault-tolerance machinery is continually
+exercised and tested, which can increase your confidence taht faluts will be handled correctly
+when they occur naturally.
+
+If a system is expected to provide some guarantee, it can constantly check itself which 
+it's running and raise an alert if a discrepancy is found.
+
+A clever system obfuscates the internal working of the process, reducing the human to a passive
+user who simply consume the insights provided by the machine. AI should be a tool to be wielded,
+not a lens through which we view the world. To steer such a powerful tool, we must be equipped with
+the knowledge to understand and operate it without eroding the human quality of our human system.
+
+Vendors are understandably reluctant to tell you about the kinds of workloads for which their
+software is poorly suited.
+
+What one person considers to be an obscure and pointless feature may well be a central requirement
+for someone else. The need for data integration often only becomes apparent if you zoom out and
+consider the dataflows across an entire organization.
+
+For an artist such as yourself, the criteria for job acceptance is clear: you want to make 
+as much money as possible

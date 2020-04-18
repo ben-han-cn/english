@@ -1,0 +1,15 @@
+In general, only static languages are amenable to AOT compilation into 
+native machine code because machine languages typically need to know the 
+type of data, and in dynamic languages the type is not fixed ahead of time. 
+Consequently, dynamic languages are typically interpreted or JIT compiled.
+
+The uses of this machine is manifold.
+
+Adding complexity to solve a problem may bring a short-term benefit, but it invariably
+comes with an ever-accumulating long-term cost.
+
+When I read that question, I was intrigued. Using closures instead of functions 
+tends to be more costly because closures capture some of the environment, and 
+that has some overhead. In practice, we usually don’t think about the difference 
+when programming, and the choice of one over the other comes down to personal 
+preference and what feels right.
